@@ -1,0 +1,2 @@
+the actual rendered width is equals to the width+padding+border
+the width property is the same as the actual rendered width of the element. the content area is automatically  sized based on the remaining width, after border [adding has been subtracted ]

@@ -1,0 +1,12 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+/* it's possible for elemts to have more than one tag name, also they can have atributes like the <class> attribute

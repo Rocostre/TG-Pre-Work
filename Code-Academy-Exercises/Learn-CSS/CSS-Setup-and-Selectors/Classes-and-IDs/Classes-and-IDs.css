@@ -1,0 +1,24 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+
+#article-title {
+  font-family: cursive;
+  text-transform: capitalize;
+}
+/*CSS can choose HTML components by their tag, class, and ID. CSS classes and IDs have distinctive purposes, which can influence which one you use to style HTML components
